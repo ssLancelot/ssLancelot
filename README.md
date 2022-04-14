@@ -1,1 +1,1 @@
-![snake svg](https://github.com/hsynkrcf/hsynkrcf/blob/output/github-contribution-grid-snake.svg)
+![snake svg]https://github.com/ssLancelot/ssLancelot/blob/main/githubBanner.gif
