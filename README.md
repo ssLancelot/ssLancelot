@@ -1,1 +1,1 @@
-![pacmanbg](https://user-images.githubusercontent.com/76182416/163697568-64bcbccf-3193-4807-bd21-c32b3dcf3a82.gif)
+![pacmbg](https://user-images.githubusercontent.com/76182416/163697611-9561109b-9415-45c9-a5e4-c8001c06b729.gif)
